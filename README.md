@@ -1,5 +1,8 @@
-Electron Touchbar Demo
-======================
+# Electron Touchbar:
+
+Create TouchBar layouts for native macOS applications.
+
+
 
 ## Video cast
 
